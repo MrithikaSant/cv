@@ -1,0 +1,24 @@
+
+body{
+    background-color: #DDF7E3;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #6d8c6a;
+  border-width: 10px;
+  width: 5%;
+
+}
+img {
+    height: 300px;
+}
+h1{
+    color: #5D9C59;
+    font: italic 1.2em "Fira Sans";
+
+}
+h3{
+    color: #5D9C59;
+    font: italic 1.2em "Fira Sans";
+}
